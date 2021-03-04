@@ -1,15 +1,16 @@
-id: opecha:P000579
+id: P000579
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W30106
   title: གྲུབ་ཆེན་བརྒྱད་ཅུའི་རྣམ་ཐར་དང་ཞལ་ཐང་།
-  volume:
+  author: ''
+  volumes:
     5b70bc0ffb18498bbf8ece95cbe89455:
       image_group_id: I1KG13743
       title: Volume 1 of grub chen brgyad cu'i rnam thar dang zhal thang /
       volume_number: 1
       total_pages: 236
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གྲུབ་ཆེན་བརྒྱད་ཅུའི་རྣམ་ཐར་དང་ཞལ་ཐང་།
   author: ''
